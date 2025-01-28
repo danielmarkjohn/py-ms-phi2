@@ -1,0 +1,8 @@
+flask==3.0.0
+transformers==4.36.2
+torch==2.1.2
+accelerate==0.25.0
+bitsandbytes==0.41.3
+einops==0.7.0
+scipy==1.11.4
+numpy==1.26.3
