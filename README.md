@@ -1,4 +1,4 @@
-# Local GPT API Server
+# Local Microsoft PHI 2 API Server
 
 A Flask-based API server for running the DeepSeek-R1 language model locally with optimized performance.
 
